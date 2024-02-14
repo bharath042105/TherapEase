@@ -1,36 +1,7 @@
 
 
-# Breath.
 
-This project is all about Mental Health,it shows how important is to look after your mental health
-and shows some easy ways to maintain and improve your mental health. 
-[Project Link](https://github.com/udaykiran1612/Breath_mental-health-support)
-
-This project is done for "LAYER 0 HACKATHON" hosted by [BLOCKCHAIN SRM AND GENY SRM](https://discord.gg/XwAF4UGD).
-
-
-# What we have here
-
-* Friendly Chatbot
-* Statistics of Mental Health disorders
-* Nutritions need to maintain mental health
-* Exercise need to maintain mental health
-* Some game to make you feel better
-
-
-# How to Use
-
-I hope i made this project very easy to use,But still if you find any difficulties follow the steps.
-
-* Click the Chatbot Menu 
-* Click Take me there button
-* There you can find a chatbot
-* Click "Start Conversation" botton.
-* Click "Listen me" button and,
-* Ask for "Website tour" to Chatbot.
-* Bot will guide you how to use the Breath.
-
-
+T
 
 
 
@@ -50,7 +21,7 @@ It is not trained for all conversation but you can talk some normal conversation
 * Click "Stop Conversation" to stop the conversation.
 
 
-![ChatBot Image](https://github.com/ashiqInGit/breath/blob/gh-pages/Images/images_for_readme/chatBotImg.PNG?raw=true)
+
 
 
 ### Technology Used
@@ -79,7 +50,7 @@ Here you find statistics of some mental health related disorders.
 * Alcohol use disorders
 
 
-![Statistics](https://github.com/ashiqInGit/breath/blob/gh-pages/Images/images_for_readme/statisticsImg.PNG?raw=true)
+
 
 #### How to use
 
@@ -98,7 +69,7 @@ So i added two simple games to play.
 #### How to navigate
 
 * On the below page click on the "STAY HAPPY" card to open Gaming section ,where you can find two games
-![Page Image](https://github.com/ashiqInGit/breath/blob/gh-pages/Images/images_for_readme/secondPage.PNG?raw=true)
+
 * Click on the game you want to play.
 
 
@@ -107,7 +78,6 @@ So i added two simple games to play.
 ### Block Rider
 
 
-![Block Rider Image](https://github.com/ashiqInGit/breath/blob/gh-pages/Images/images_for_readme/carGameImg.PNG?raw=true)
 
 #### How to play:
 
@@ -147,16 +117,6 @@ One study found that increasing your activity levels from doing nothing, to exer
 * Click "Explore" button on main page. (Takes you to the second section).
 * Click on the "Exercise" card to explore.
 
-
-# Of course it is Responsive
-
-The whole website is responsive for most of the devices out there.
-
-#### Sample Images.
-
-![Mobile version's image](https://github.com/ashiqInGit/breath/blob/gh-pages/Images/images_for_readme/mobileVersion.PNG?raw=true)
-
-![Mobile version's image](https://github.com/ashiqInGit/breath/blob/gh-pages/Images/images_for_readme/mobileVersion02.PNG?raw=true)
 
 
 #### THANK YOU <3
